@@ -1,0 +1,9 @@
+For info on all original variables, please see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones or some of the info files provided with the data:
+- README.txt
+- features_info.txt
+
+Variable names use as little abbreviations as possible (in a compromise to still keep it somewhat readable). Info on statistical abbreviations in the variable names is provided in the aforementioned features_info.txt document. 
+No new variables were added to the dataset. 
+
+ATTENTION! tidydataset.txt:
+As opposed to the original data, all variables in this dataset (except subjectID and activity) represent group means!
